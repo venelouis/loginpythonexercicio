@@ -1,3 +1,5 @@
+# Define a user and a password, and after verify if they are valid.
+
 USER = 'venelouis'
 PASSWORD = '123'
 
